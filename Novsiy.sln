@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novsiy.Web", "Novsiy.Web\Novsiy.Web.csproj", "{C0B6F443-5859-40AB-98B2-C352BF95BEC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novsiy.Web.Tests", "Novsiy.Web.Tests\Novsiy.Web.Tests.csproj", "{660C543F-A98F-4870-8FCF-A78928471C24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0B6F443-5859-40AB-98B2-C352BF95BEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B6F443-5859-40AB-98B2-C352BF95BEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B6F443-5859-40AB-98B2-C352BF95BEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B6F443-5859-40AB-98B2-C352BF95BEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{660C543F-A98F-4870-8FCF-A78928471C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660C543F-A98F-4870-8FCF-A78928471C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660C543F-A98F-4870-8FCF-A78928471C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660C543F-A98F-4870-8FCF-A78928471C24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
