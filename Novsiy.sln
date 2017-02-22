@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novsiy.Web", "Novsiy.Web\No
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novsiy.Web.Tests", "Novsiy.Web.Tests\Novsiy.Web.Tests.csproj", "{660C543F-A98F-4870-8FCF-A78928471C24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novsiy.Business", "Novsiy.Business\Novsiy.Business.csproj", "{899945C7-2454-4AD4-9D2C-E42F4336BA40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novsiy.DataModel", "Novsiy.DataModel\Novsiy.DataModel.csproj", "{CCE2BBEA-5D35-468D-9E4C-CB0D89246FD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{660C543F-A98F-4870-8FCF-A78928471C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{660C543F-A98F-4870-8FCF-A78928471C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{660C543F-A98F-4870-8FCF-A78928471C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899945C7-2454-4AD4-9D2C-E42F4336BA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899945C7-2454-4AD4-9D2C-E42F4336BA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899945C7-2454-4AD4-9D2C-E42F4336BA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899945C7-2454-4AD4-9D2C-E42F4336BA40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE2BBEA-5D35-468D-9E4C-CB0D89246FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE2BBEA-5D35-468D-9E4C-CB0D89246FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE2BBEA-5D35-468D-9E4C-CB0D89246FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE2BBEA-5D35-468D-9E4C-CB0D89246FD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
